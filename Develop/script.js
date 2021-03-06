@@ -12,3 +12,10 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+
+const characterAmountRange
+const characterAmountNumber
+const includeUppercaseElement
+
+
+form.addEventListener('')
